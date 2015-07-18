@@ -135,12 +135,12 @@
         "tip": "tooltip"
         },
     {
-        "elemclass": "dPin",
+        "elemclass": "util",
         "x": "383",
         "y": "465",
         "width": "14",
         "height": "14",
-        "text": "Pin P9_03 - 3.3V",
+        "text": "Pin P9_03 - 3.3V supply",
         "tip": "tooltip"
         },
     {
