@@ -356,7 +356,7 @@
         "y": "292",
         "width": "51",
         "height": "80",
-        "text": "i2c pins",
+        "text": "i2C pins",
         "tip": "tooltip" 
         },
     {
@@ -365,7 +365,7 @@
         "y": "287",
         "width": "14",
         "height": "14",
-        "text": "i2c - GND",
+        "text": "i2C - GND",
         "tip": "tooltip" 
         },
     {
@@ -374,7 +374,7 @@
         "y": "305",
         "width": "14",
         "height": "14",
-        "text": "i2c - SDA",
+        "text": "i2C - SDA",
         "tip": "tooltip" 
         },
     {
@@ -383,7 +383,7 @@
         "y": "323",
         "width": "14",
         "height": "14",
-        "text": "i2c - SCL",
+        "text": "i2C - SCL",
         "tip": "tooltip" 
         },
     {
@@ -392,7 +392,7 @@
         "y": "340",
         "width": "14",
         "height": "14",
-        "text": "i2c - 3.3V",
+        "text": "i2C - 3.3V",
         "tip": "tooltip" 
         },
     {
@@ -500,7 +500,7 @@
         "y": "587",
         "width": "11",
         "height": "18",
-        "text": "LED - provides heartbeat blink",
+        "text": "LED - provides system heartbeat blink",
         "tip": "tooltip" 
         },
     {
