@@ -360,7 +360,7 @@
         "tip": "tooltip" 
         },
     {
-        "elemclass": "pins",
+        "elemclass": "gnd",
         "x": "318",
         "y": "287",
         "width": "14",
