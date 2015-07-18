@@ -5,7 +5,7 @@
         "y": "427",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_07",
+        "text": "Pin P8_08",
         "tip": "tooltip"
         },
     {
@@ -14,21 +14,12 @@
         "y": "427",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_08",
+        "text": "Pin P8_07",
         "tip": "tooltip"
         },
     {
         "elemclass": "dPin",
         "x": "26",
-        "y": "408",
-        "width": "14",
-        "height": "14",
-        "text": "Pin P8_09",
-        "tip": "tooltip"
-        },
-    {
-        "elemclass": "dPin",
-        "x": "44",
         "y": "408",
         "width": "14",
         "height": "14",
@@ -37,16 +28,16 @@
         },
     {
         "elemclass": "dPin",
-        "x": "26",
-        "y": "391",
+        "x": "44",
+        "y": "408",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_11",
+        "text": "Pin P8_09",
         "tip": "tooltip"
         },
     {
         "elemclass": "dPin",
-        "x": "44",
+        "x": "26",
         "y": "391",
         "width": "14",
         "height": "14",
@@ -55,16 +46,16 @@
         },
     {
         "elemclass": "dPin",
-        "x": "26",
-        "y": "355",
+        "x": "44",
+        "y": "391",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_15",
+        "text": "Pin P8_11",
         "tip": "tooltip"
         },
     {
         "elemclass": "dPin",
-        "x": "44",
+        "x": "26",
         "y": "355",
         "width": "14",
         "height": "14",
@@ -74,6 +65,15 @@
     {
         "elemclass": "dPin",
         "x": "44",
+        "y": "355",
+        "width": "14",
+        "height": "14",
+        "text": "Pin P8_15",
+        "tip": "tooltip"
+        },
+    {
+        "elemclass": "dPin",
+        "x": "26",
         "y": "337",
         "width": "14",
         "height": "14",
@@ -86,7 +86,7 @@
         "y": "245",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_27",
+        "text": "Pin P8_28",
         "tip": "tooltip"
         },
     {
@@ -95,7 +95,7 @@
         "y": "245",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_28",
+        "text": "Pin P8_27",
         "tip": "tooltip"
         },
     {
@@ -104,7 +104,7 @@
         "y": "228",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_29",
+        "text": "Pin P8_30",
         "tip": "tooltip"
         },
     {
@@ -113,7 +113,7 @@
         "y": "228",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_30",
+        "text": "Pin P8_29",
         "tip": "tooltip"
         },
     {
@@ -122,7 +122,7 @@
         "y": "483",
         "width": "14",
         "height": "14",
-        "text": "Pin P9_01 - GND",
+        "text": "Pin P9_02 - GND",
         "tip": "tooltip"
         },
     {
@@ -131,7 +131,16 @@
         "y": "483",
         "width": "14",
         "height": "14",
-        "text": "Pin P9_02 - GND",
+        "text": "Pin P9_01 - GND",
+        "tip": "tooltip"
+        },
+    {
+        "elemclass": "dPin",
+        "x": "383",
+        "y": "465",
+        "width": "14",
+        "height": "14",
+        "text": "Pin P9_03 - 3.3V",
         "tip": "tooltip"
         },
     {
@@ -140,7 +149,7 @@
         "y": "480",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_01 - GND",
+        "text": "Pin P8_02 - GND",
         "tip": "tooltip"
         },
     {
@@ -149,12 +158,12 @@
         "y": "480",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_02 - GND",
+        "text": "Pin P8_01 - GND",
         "tip": "tooltip"
         },
     {
         "elemclass": "dPin",
-        "x": "381",
+        "x": "365",
         "y": "393",
         "width": "14",
         "height": "14",
@@ -163,7 +172,7 @@
         },
     {
         "elemclass": "dPin",
-        "x": "381",
+        "x": "365",
         "y": "376",
         "width": "14",
         "height": "14",
@@ -172,7 +181,7 @@
         },
     {
         "elemclass": "dPin",
-        "x": "381",
+        "x": "365",
         "y": "360",
         "width": "14",
         "height": "14",
@@ -230,8 +239,8 @@
         "y": "403",
         "width": "14",
         "height": "14",
-        "text": "NEW",
-        "tip": "Analog OUT, Pin 3"
+        "text": "Analog OUT, Pin 3",
+        "tip": "tooltip"
         },
     {
         "elemclass": "aPin",
@@ -351,12 +360,39 @@
         "tip": "tooltip" 
         },
     {
-        "elemclass": "comms",
-        "x": "288",
-        "y": "384",
-        "width": "55",
-        "height": "55",
-        "text": "Don't know!",
+        "elemclass": "pins",
+        "x": "318",
+        "y": "287",
+        "width": "14",
+        "height": "14",
+        "text": "i2c - GND",
+        "tip": "tooltip" 
+        },
+    {
+        "elemclass": "pins",
+        "x": "318",
+        "y": "305",
+        "width": "14",
+        "height": "14",
+        "text": "i2c - SDA",
+        "tip": "tooltip" 
+        },
+    {
+        "elemclass": "pins",
+        "x": "318",
+        "y": "323",
+        "width": "14",
+        "height": "14",
+        "text": "i2c - SCL",
+        "tip": "tooltip" 
+        },
+    {
+        "elemclass": "pins",
+        "x": "318",
+        "y": "340",
+        "width": "14",
+        "height": "14",
+        "text": "i2c - 3.3V",
         "tip": "tooltip" 
         },
     {
@@ -365,7 +401,7 @@
         "y": "37",
         "width": "41",
         "height": "56",
-        "text": "Speaker out - LEFT",
+        "text": "Speaker out - RIGHT",
         "tip": "tooltip" 
         },
     {
@@ -374,7 +410,7 @@
         "y": "37",
         "width": "41",
         "height": "56",
-        "text": "Speaker out - RIGHT",
+        "text": "Speaker out - LEFT",
         "tip": "tooltip" 
         },
     {
@@ -464,7 +500,7 @@
         "y": "587",
         "width": "11",
         "height": "18",
-        "text": "LED",
+        "text": "LED - provides heartbeat blink",
         "tip": "tooltip" 
         },
     {
@@ -482,7 +518,7 @@
         "y": "587",
         "width": "11",
         "height": "18",
-        "text": "LED",
+        "text": "LED - Blinks when the board is active",
         "tip": "tooltip" 
         },
     {
