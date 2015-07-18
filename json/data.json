@@ -261,6 +261,15 @@
         "tip": "tooltip"    
         },
     {
+        "elemclass": "pins",
+        "x": "85",
+        "y": "457",
+        "width": "14",
+        "height": "14",
+        "text": "5V - NEVER use 5V with P8 or P9!",
+        "tip": "tooltip"    
+        },
+    {
         "elemclass": "gnd",
         "x": "85",
         "y": "475",
@@ -437,7 +446,7 @@
         "y": "36",
         "width": "14",
         "height": "14",
-        "text": "LEFT",
+        "text": "RIGHT",
         "tip": "tooltip" 
         },
     {
@@ -446,7 +455,7 @@
         "y": "36",
         "width": "14",
         "height": "14",
-        "text": "RIGHT",
+        "text": "LEFT",
         "tip": "tooltip" 
         },
     {
@@ -464,7 +473,7 @@
         "y": "36",
         "width": "14",
         "height": "14",
-        "text": "LEFT",
+        "text": "RIGHT",
         "tip": "tooltip" 
         },
     {
@@ -473,7 +482,7 @@
         "y": "36",
         "width": "14",
         "height": "14",
-        "text": "RIGHT",
+        "text": "LEFT",
         "tip": "tooltip" 
         },
     {
@@ -518,7 +527,7 @@
         "y": "587",
         "width": "11",
         "height": "18",
-        "text": "LED - Blinks when the board is active",
+        "text": "LED - Blinks when BeagleRT program is running",
         "tip": "tooltip" 
         },
     {
