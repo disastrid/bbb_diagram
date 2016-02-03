@@ -5,7 +5,7 @@
         "y": "427",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_08",
+        "text": "Pin P8_08 - Digital 1",
         "tip": "tooltip"
         },
     {
@@ -14,7 +14,7 @@
         "y": "427",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_07",
+        "text": "Pin P8_07 - Digital 0",
         "tip": "tooltip"
         },
     {
@@ -23,7 +23,7 @@
         "y": "408",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_10",
+        "text": "Pin P8_10 - Digital 3",
         "tip": "tooltip"
         },
     {
@@ -32,7 +32,7 @@
         "y": "408",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_09",
+        "text": "Pin P8_09 - Digital 2",
         "tip": "tooltip"
         },
     {
@@ -41,7 +41,7 @@
         "y": "391",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_12",
+        "text": "Pin P8_12 - Digital 5",
         "tip": "tooltip"
         },
     {
@@ -50,7 +50,7 @@
         "y": "391",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_11",
+        "text": "Pin P8_11 - Digital 4",
         "tip": "tooltip"
         },
     {
@@ -59,7 +59,7 @@
         "y": "355",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_16",
+        "text": "Pin P8_16 - Digital 9",
         "tip": "tooltip"
         },
     {
@@ -68,7 +68,7 @@
         "y": "355",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_15",
+        "text": "Pin P8_15 - Digital 8",
         "tip": "tooltip"
         },
     {
@@ -77,7 +77,7 @@
         "y": "337",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_18",
+        "text": "Pin P8_18 - Digital 11",
         "tip": "tooltip"
         },
     {
@@ -86,7 +86,7 @@
         "y": "245",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_28",
+        "text": "Pin P8_28 - Digital 13",
         "tip": "tooltip"
         },
     {
@@ -95,7 +95,7 @@
         "y": "245",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_27",
+        "text": "Pin P8_27 - Digital 12",
         "tip": "tooltip"
         },
     {
@@ -104,7 +104,7 @@
         "y": "228",
         "width": "14",
         "height": "14",
-        "text": "Pin P8_30",
+        "text": "Pin P8_30 - Digital 15",
         "tip": "tooltip"
         },
     {
